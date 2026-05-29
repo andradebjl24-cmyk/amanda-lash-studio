@@ -9,7 +9,7 @@ export default function Services({ onSelectService }) {
       description: 'Fios em formato de Y para um olhar marcante, delicado e com volume leve.',
       time: '1h 00m',
       price: '120',
-      image: '/brasileiro.png',
+      image: '/images/brasileiro.png',
       icon: <Sparkles className="service-card-icon" />
     },
     {
@@ -18,7 +18,7 @@ export default function Services({ onSelectService }) {
       description: 'Efeito tridimensional com fios em W, ideal para cílios cheios e alinhados.',
       time: '1h 00m',
       price: '120',
-      image: '/egipicio.png',
+      image: '/images/egipicio.png',
       icon: <Crown className="service-card-icon" />
     },
     {

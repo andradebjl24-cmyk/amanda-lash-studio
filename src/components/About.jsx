@@ -13,7 +13,7 @@ export default function About() {
               <span className="neon-text">realce sua essência</span>
             </div>
             <img 
-              src="dist/images/studio2.png"
+              src="/images/studio2.png"
               alt="Interior do Amanda Lash Studio - Maca de atendimento rosa confortável, espelho redondo dourado e ambiente aconchegante" 
               className="studio-image"
               loading="lazy"
