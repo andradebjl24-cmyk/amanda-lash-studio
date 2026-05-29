@@ -9,7 +9,7 @@ export default function Services({ onSelectService }) {
       description: 'Fios em formato de Y para um olhar marcante, delicado e com volume leve.',
       time: '1h 00m',
       price: '120',
-      image: '/volume brasileiro2.png',
+      image: '/volume-brasileiro.png',
       icon: <Sparkles className="service-card-icon" />
     },
     {
@@ -27,7 +27,7 @@ export default function Services({ onSelectService }) {
       description: 'Volume intenso e glamouroso com fans artesanais para preenchimento marcante.',
       time: '1h 40m',
       price: '220',
-      image: '/images/volume-russo.png',
+      image: '/images/vomule-russo.png',
       icon: <Crown className="service-card-icon" />
     },
     {

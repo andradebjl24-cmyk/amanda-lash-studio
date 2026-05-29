@@ -85,7 +85,7 @@ export default function Gallery() {
           <div key={cat.id} className="gallery-card">
             <div className="gallery-img-box">
               <img 
-                src={idx === 0 ? "/images/carao.png" : idx === 1 ? "/images/card-studio5.png" : "/images/bancada.png"} 
+                src={idx === 0 ? "/images/cara.png" : idx === 1 ? "/images/card-studio.png" : "/images/bancada.png"} 
                 alt={cat.name} 
                 className="gallery-grid-img"
               />
