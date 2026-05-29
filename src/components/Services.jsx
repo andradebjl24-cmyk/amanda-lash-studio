@@ -9,7 +9,7 @@ export default function Services({ onSelectService }) {
       description: 'Fios em formato de Y para um olhar marcante, delicado e com volume leve.',
       time: '1h 00m',
       price: '120',
-      image: 'public/volume brasileiro2.png',
+      image: '/volume brasileiro2.png',
       icon: <Sparkles className="service-card-icon" />
     },
     {
@@ -18,7 +18,7 @@ export default function Services({ onSelectService }) {
       description: 'Efeito tridimensional com fios em W, ideal para cílios cheios e alinhados.',
       time: '1h 00m',
       price: '120',
-      image: 'dist/images/volume egipicio.png',
+      image: '/volume-egipicio.png',
       icon: <Crown className="service-card-icon" />
     },
     {
@@ -27,7 +27,7 @@ export default function Services({ onSelectService }) {
       description: 'Volume intenso e glamouroso com fans artesanais para preenchimento marcante.',
       time: '1h 40m',
       price: '220',
-      image: 'public/images/volume russo.png',
+      image: '/images/volume-russo.png',
       icon: <Crown className="service-card-icon" />
     },
     {
@@ -36,7 +36,7 @@ export default function Services({ onSelectService }) {
       description: 'Efeito alongado e sofisticado que levanta o olhar com leveza e elegância',
       time: '1h 00m',
       price: '150',
-      image: 'public/images/fox eyes.png',
+      image: '/images/fox-eyes.png',
       icon: <Check className="service-card-icon" />
     },
     {
@@ -45,7 +45,7 @@ export default function Services({ onSelectService }) {
       description: 'Reposição dos fios para manter seu olhar bonito, alinhado e preenchido.',
       time: ' 50m',
       price: '80',
-      image: 'public/images/manutençao.png',
+      image: '/images/manutencao.png',
       icon: <RefreshCw className="service-card-icon" />
     },
     {
@@ -54,7 +54,7 @@ export default function Services({ onSelectService }) {
       description: 'Remoção profissional sem danificar a saúde dos seus cílios naturais.',
       time: '50m',
       price: '40',
-      image: 'public/images/remoção.png',
+      image: '/images/remocao.png',
       icon: <Trash2 className="service-card-icon" />
     }
   ];
